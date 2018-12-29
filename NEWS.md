@@ -3,3 +3,4 @@
 1. add r proj and readme
 1. update readme
 1. add news
+1. add impala4sftp.ipynb
