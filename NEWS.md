@@ -1,6 +1,8 @@
 ### 2018-12-29 16:24:23
 
 1. rename to impala2sftp
+1. Build a R Script for R users.
+1. Add Lisense and Code of Conduct.
 
 ### 2018-12-29 16:16:40
 
