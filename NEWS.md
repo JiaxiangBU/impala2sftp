@@ -3,6 +3,7 @@
 1. rename to impala2sftp
 1. Build a R Script for R users.
 1. Add Lisense and Code of Conduct.
+1. add badge and finish 
 
 ### 2018-12-29 16:16:40
 

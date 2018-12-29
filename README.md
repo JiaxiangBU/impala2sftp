@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+
 # impala4sftp
 
 The goal of impala4sftp is to help users who use impala and transfer
@@ -15,10 +17,7 @@ Python Code, see [Jupyter Notebook](impala4sftp.ipynb)
 
 # To-do
 
-1.  <input type="checkbox" id="checkbox1" class="styled">Build a R
-    Script for R users.
-2.  <input type="checkbox" id="checkbox1" class="styled">Add Lisense and
-    Code of Conduct.
+…
 
 -----
 
