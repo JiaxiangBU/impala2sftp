@@ -30,8 +30,8 @@ Python Code, see [Jupyter Notebook](impala4sftp.ipynb)
 <h6 align="center">
 
 Please note that the ‘impala2sftp’ project is released with a
-[Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md).<br>By
-contributing to this project, you agree to abide by its terms.
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).<br>By contributing to
+this project, you agree to abide by its terms.
 
 </h6>
 
