@@ -4,3 +4,4 @@
 1. update readme
 1. add news
 1. add impala4sftp.ipynb
+1. knit readme
