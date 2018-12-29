@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 
 # impala4sftp
 
@@ -29,9 +29,9 @@ Python Code, see [Jupyter Notebook](impala4sftp.ipynb)
 
 <h6 align="center">
 
-Please note that the ‘add2md’ project is released with a [Contributor
-Code of Conduct](.github/CODE_OF_CONDUCT.md).<br>By contributing to this
-project, you agree to abide by its terms.
+Please note that the ‘impala2sftp’ project is released with a
+[Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md).<br>By
+contributing to this project, you agree to abide by its terms.
 
 </h6>
 
