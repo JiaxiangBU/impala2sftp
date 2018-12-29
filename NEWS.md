@@ -1,3 +1,7 @@
+### 2018-12-29 16:24:23
+
+1. rename to impala2sftp
+
 ### 2018-12-29 16:16:40
 
 1. add r proj and readme
