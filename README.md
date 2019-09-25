@@ -13,7 +13,9 @@ if users want to transfer the sensitive data to others who have no
 access to this Impala domain. SFTP is a option. Thus, this project is to
 try build a bridge between Impala and SFTP.
 
-Python Code, see [Jupyter Notebook](impala4sftp.ipynb)
+Python Code, see [Jupyter Notebook](impala4sftp.ipynb). If GitHub
+Preview does not work, click
+[mybinder](https://mybinder.org/v2/gh/JiaxiangBU/impala2sftp/master?filepath=impala2sftp.ipynb).
 
 # To-do
 
