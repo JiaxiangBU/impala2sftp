@@ -1,3 +1,7 @@
+### 2019-01-16 17:07:14
+
+1. update readme
+
 ### 2018-12-29 16:24:23
 
 1. rename to impala2sftp
