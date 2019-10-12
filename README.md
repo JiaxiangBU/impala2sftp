@@ -19,7 +19,10 @@ Preview does not work, click
 
 # To-do
 
-…
+For the purpose of the end-to-end transferring data files, SFTP is
+better than HTTP(s). However, if the file losing, missing happens during
+the sending process, the reloading mechanism is essential to develop.
+The next contribution is to make function more defense.
 
 -----
 
